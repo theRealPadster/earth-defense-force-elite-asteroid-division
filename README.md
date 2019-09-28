@@ -1,2 +1,2 @@
-# earth-defense-force-elite-asteroid-division
-Old college project
+# Earth Defense Force: Elite Asteroid Division
+An old college project using XNA

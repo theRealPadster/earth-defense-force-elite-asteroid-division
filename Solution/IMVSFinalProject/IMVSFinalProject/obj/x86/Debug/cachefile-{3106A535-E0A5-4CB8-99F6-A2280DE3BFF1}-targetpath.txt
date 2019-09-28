@@ -1,0 +1,20 @@
+Content\images\whitePixel.xnb
+Content\images\trail-4.xnb
+Content\images\rocket-spritesheet-vertical.xnb
+Content\images\ground-explosion.xnb
+Content\images\air-explosion.xnb
+Content\images\turret-sheet.xnb
+Content\images\stars.xnb
+Content\images\buildings-bigger-2048.xnb
+Content\fonts\HeadingFont.xnb
+Content\fonts\BodyFont.xnb
+Content\sounds\MenuScreenSoundV1.xnb
+Content\sounds\AstroidExplosion.xnb
+Content\sounds\MissileLaunch.xnb
+Content\sounds\NuclearAlarm.xnb
+Content\images\turret-mount-new.xnb
+Content\images\city-small-sprite.xnb
+Content\images\nuclear-holocaust.xnb
+Content\images\backgroundSky-double-flipped.xnb
+Content\sounds\Dramatic Music.xnb
+Content\sounds\nuclear explosion - sound effect.xnb

@@ -1,0 +1,108 @@
+﻿<html>
+	
+<head>
+	<title>Classes</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="generator" content="HelpNDoc Personal Edition 4.8.0.849">
+	<meta name="keywords" content="">
+	
+	<link type="text/css" rel="stylesheet" media="all" href="css/reset.css" />
+	<link type="text/css" rel="stylesheet" media="all" href="css/base.css" />
+	<link type="text/css" rel="stylesheet" media="all" href="css/hnd.css" />
+	<!--[if lte IE 8]>
+		<link type="text/css" rel="stylesheet" media="all" href="css/ielte8.css" />
+	<![endif]-->
+	<style type="text/css">
+		#topic_header
+		{
+			background-color: #EFEFEF;
+		}
+	</style>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/hnd.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function()
+		{
+			if (top.frames.length == 0)
+			{
+				var sTopicUrl = top.location.href.substring(top.location.href.lastIndexOf("/") + 1, top.location.href.length);
+				top.location.href = "Earth Defence Force Elite Asteroid Division.html?" + sTopicUrl;
+			}
+			else
+			{
+				var bTocSelected = false;
+				(function waitForTOC()
+				{
+					if (top && top.FrameTOC && top.FrameTOC.SelectTocItem)
+					{
+						top.FrameTOC.SelectTocItem("Classes");
+						bTocSelected = true;
+					}
+					if (!bTocSelected) setTimeout(function() { waitForTOC(); }, 300);
+				})();
+			}
+		});
+	</script>
+	
+	</head>
+
+<body>
+
+<div id="topic_header">
+			<div id="topic_header_content">
+				<h1 id="topic_header_text">Classes</h1>
+				
+				<div id="topic_breadcrumb">
+					<a href="TechnicalInformation.html">Technical Information</a> &rsaquo;&rsaquo; </div>
+				</div>
+			<div id="topic_header_nav">
+				<a href="TechnicalInformation.html"><img src="img/arrow_up.png" alt="Parent"/></a>
+				
+				<a href="TechnicalInformation.html"><img src="img/arrow_left.png" alt="Previous"/></a>
+				
+				<a href="Classrelationshipdiagram.html"><img src="img/arrow_right.png" alt="Next"/></a>
+				
+				</div>
+			<div class="clear"></div>
+		</div>
+	<div id="topic_content">
+		
+<p></p>
+<h3 class="rvps6"><span class="rvts0"><span class="rvts13">Classes and Their Purposes</span></span></h3>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">Button.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">A class for buttons on menu screens. It draws a rectangle of a given colour along with the text supplied of a given font. Contains click listener in Update() method and isClicked boolean property for triggering code when the button is clicked. </span></p>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">City.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">A class for each city. Contains frames for each destruction state, which are changed when the city is hit by a meteor. Contans methods for checking if the city was hit, or destroyed, as well as a getRect() method for collision detection. </span></p>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">CollisionManager.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">A class for keeping track of all collisions. Deletes shots when they go offscreen, spawns explosions and deletes objects when they blow up. Also calls ScoreManager methods to keep track of scores on object collision. </span></p>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">Explosion.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">A class for generating animated explosions. Takes the position of the explosion, and depending on the location, either draws an airburst explosion if it’s above a given height, or a mushroom cloud explosion if it is below. This class also plays an explosion sound on every explosion. </span></p>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">Game1.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">Main game class that ties everything together. Contains all the textures, objects, initializations, and so on and so forth. Its update() method calls all the necessary object’s update methods, Draw() calls draws, and so on. </span></p>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">Meteor.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">A class for each animated meteor. Has a start point (random spot on the top of the screen), a random end point (at the bottom), and a random , normalised, speed. The meteors are spawned off-screen and just move along their speed vector. They are removed in the CollisionManager class. </span></p>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">Program.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">The basic XNA game wrapper. </span></p>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">ScoreManager.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">A class to keep track of current game scores which also contains the methods for reading and writing high scores to file. </span></p>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">ScrollingBackground.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">A class that allows the backgrounds of the game to Parallax Scroll. This is a technique where the background image moves slower than foreground image, which will create a illusion of depth and 2 dimensional scene adding to the realization of the game. This will allow to instantiate multiple parallax scrolling backgrounds throughout the game. This game uses three parallax scrolling backgrounds to create the illusion of moving planetary stars.</span></p>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">Shot.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">A class for each missile shot by the turret. They are angled and shoot towards where the mouse click occurred, and make a sound when created. The speed is randomly generated within a set range, and is normalised. The shots, like meteors, merely move along their speed vector until the CollisionManager disposes of them. </span></p>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">TextScreen.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">A class for any menu screen that needs to display text. It takes a string array as input, uses the first item as the title, and iterates through the rest to draw the text to the screen. This is used for the How To Play, About, Help, and High Scores screens. </span></p>
+<h6 class="rvps7"><span class="rvts0"><span class="rvts14">Turret.cs</span></span></h6>
+<p class="rvps2"><span class="rvts6">A class for the turret object. Update() method positions the turret to face the mouse cursor. Clicking generates a new Shot object. </span></p>
+<p></p>
+<p class="rvps4"><span class="rvts11">Created with the Personal Edition of HelpNDoc: </span><a class="rvts12" href="http://www.helpauthoringsoftware.com">What is a Help Authoring tool?</a></p>
+</div>
+	
+	<div id="topic_footer">
+
+			<div id="topic_footer_content">
+				Copyright &copy; 2015 by Isaac Maier and Vivek Shyam. All Rights Reserved.</div>
+		</div>
+	</body>
+	
+</html>
+

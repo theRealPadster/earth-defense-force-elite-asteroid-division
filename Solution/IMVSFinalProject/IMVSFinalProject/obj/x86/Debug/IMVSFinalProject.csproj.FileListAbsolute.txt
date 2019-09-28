@@ -1,0 +1,431 @@
+G:\Game Programming\Projects\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+G:\Game Programming\Projects\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+G:\Game Programming\Projects\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Programming\Projects\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\bg1.xnb
+G:\Game Programming\Projects\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\BehemothMeteor-singleFrame.xnb
+G:\Game Programming\Projects\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\2frameMeteor.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\bg1.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\BehemothMeteor-singleFrame.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\2frameMeteor.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\bg1.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\BehemothMeteor-singleFrame.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\2frameMeteor.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\bg1.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\BehemothMeteor-singleFrame.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\2frameMeteor.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\1frameTurret.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov22\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\bg1.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\BehemothMeteor-singleFrame.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\2frameMeteor.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\1frameTurret.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject-nov22\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\bg1.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\BehemothMeteor-singleFrame.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\2frameMeteor.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\1frameTurret.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\bg1.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\1frameTurret.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\bg1.xnb
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\1frameTurret.xnb
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Downloads\IMVSFinalProject-nov25\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\bg1.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\1frameTurret.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-nov29\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-flipped.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-flipped.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\Buildings.xnb
+G:\Game Programming\Projects\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-flipped.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\Buildings.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-nov30\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-city.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-flipped.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\Buildings.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-city.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-house-sprite.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-flipped.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\Buildings.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-city.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-house-sprite.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec2 - Copy\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-flipped.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\Buildings.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-city.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-house-sprite.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-flipped.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\Buildings.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-city.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-house-sprite.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-dec3-noXNBs-crappyRotation\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-flipped.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\Buildings.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-city.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-house-sprite.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\AstroidExplosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MissileLaunch.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\NuclearAlarm.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec4\IMVSFinalProject-dec2-noXNBs\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\city-small-sprite.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-flipped.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\Buildings.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-city.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-house-sprite.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\city-small-sprite.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\defaultFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\AstroidExplosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MissileLaunch.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\NuclearAlarm.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec6\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\NewGround3.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-flipped.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\Buildings.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-city.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-house-sprite.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\city-small-sprite.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\NewGround3.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\AstroidExplosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MissileLaunch.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\NuclearAlarm.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\HeadingFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec7\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\BodyFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-tileable.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-flipped.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\Buildings.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-city.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\crappy-house-sprite.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\city-small-sprite.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\NewGround3.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\HeadingFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\BodyFont.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\AstroidExplosion.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MissileLaunch.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\NuclearAlarm.xnb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+C:\Users\padster\Documents\Visual Studio 2013\Projects\Game Programming\IMVSFinalProject-dec8\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\HeadingFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\BodyFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\AstroidExplosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MissileLaunch.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\NuclearAlarm.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-mount-new.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\city-small-sprite.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\nuclear-holocaust.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-double-flipped.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\Dramatic Music.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\nuclear explosion - sound effect.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csprojResolveAssemblyReference.cache
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.csproj.GenerateResource.Cache
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\whitePixel.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\trail-4.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\rocket-spritesheet-vertical.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\ground-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\air-explosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\turret-sheet.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\stars.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\buildings-bigger-2048.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\city-small-sprite.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\turret-mount-new.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\nuclear-holocaust.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\backgroundSky-double-flipped.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\HeadingFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\BodyFont.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\MenuScreenSoundV1.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\AstroidExplosion.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\MissileLaunch.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\NuclearAlarm.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\Dramatic Music.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\nuclear explosion - sound effect.xnb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content.dll
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content.pdb
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.ContentResources.resources
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.exe.manifest
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\IMVSFinalProject.application
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.exe.manifest
+G:\Game Programming\Projects\IMVSFinalProject-dec10\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\IMVSFinalProject.application

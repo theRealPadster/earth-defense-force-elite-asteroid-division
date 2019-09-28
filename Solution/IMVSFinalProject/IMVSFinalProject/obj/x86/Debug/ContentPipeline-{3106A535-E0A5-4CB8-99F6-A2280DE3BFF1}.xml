@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\whitePixel.jpg</Source>
+      <Name>images\whitePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\whitePixel.xnb</Output>
+      <Time>2015-11-30T16:58:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\trail-4.png</Source>
+      <Name>images\trail-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\trail-4.xnb</Output>
+      <Time>2015-11-30T16:58:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\rocket-spritesheet-vertical.png</Source>
+      <Name>images\rocket-spritesheet-vertical</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\rocket-spritesheet-vertical.xnb</Output>
+      <Time>2015-11-30T16:58:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\ground-explosion.png</Source>
+      <Name>images\ground-explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\ground-explosion.xnb</Output>
+      <Time>2015-11-30T16:58:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\air-explosion.png</Source>
+      <Name>images\air-explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\air-explosion.xnb</Output>
+      <Time>2015-11-30T16:58:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\turret-sheet.png</Source>
+      <Name>images\turret-sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-sheet.xnb</Output>
+      <Time>2015-11-30T16:58:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\stars.png</Source>
+      <Name>images\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\stars.xnb</Output>
+      <Time>2015-11-30T16:58:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\buildings-bigger-2048.png</Source>
+      <Name>images\buildings-bigger-2048</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\buildings-bigger-2048.xnb</Output>
+      <Time>2015-11-30T17:57:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\HeadingFont.spritefont</Source>
+      <Name>fonts\HeadingFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\HeadingFont.xnb</Output>
+      <Time>2015-12-07T21:06:03.3901907-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\BodyFont.spritefont</Source>
+      <Name>fonts\BodyFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\fonts\BodyFont.xnb</Output>
+      <Time>2015-12-07T21:10:50.6052734-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\MenuScreenSoundV1.wav</Source>
+      <Name>sounds\MenuScreenSoundV1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MenuScreenSoundV1.xnb</Output>
+      <Time>2015-11-30T17:35:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\AstroidExplosion.wav</Source>
+      <Name>sounds\AstroidExplosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\AstroidExplosion.xnb</Output>
+      <Time>2015-12-04T11:32:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\MissileLaunch.wav</Source>
+      <Name>sounds\MissileLaunch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\MissileLaunch.xnb</Output>
+      <Time>2015-12-04T11:32:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\NuclearAlarm.wav</Source>
+      <Name>sounds\NuclearAlarm</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\NuclearAlarm.xnb</Output>
+      <Time>2015-12-04T11:32:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\turret-mount-new.png</Source>
+      <Name>images\turret-mount-new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\turret-mount-new.xnb</Output>
+      <Time>2015-12-09T08:43:07.5537829-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\city-small-sprite.png</Source>
+      <Name>images\city-small-sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\city-small-sprite.xnb</Output>
+      <Time>2015-12-09T08:27:12.5687846-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\nuclear-holocaust.jpg</Source>
+      <Name>images\nuclear-holocaust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\nuclear-holocaust.xnb</Output>
+      <Time>2015-12-09T10:07:51.9585417-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\backgroundSky-double-flipped.jpg</Source>
+      <Name>images\backgroundSky-double-flipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\images\backgroundSky-double-flipped.xnb</Output>
+      <Time>2015-12-09T10:24:44.7415904-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Dramatic Music.wav</Source>
+      <Name>sounds\Dramatic Music</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\Dramatic Music.xnb</Output>
+      <Time>2015-12-10T11:07:43.9193855-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\nuclear explosion - sound effect.mp3</Source>
+      <Name>sounds\nuclear explosion - sound effect</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\sounds\nuclear explosion - sound effect.xnb</Output>
+      <Time>2015-12-10T11:07:43.9349856-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3106A535-E0A5-4CB8-99F6-A2280DE3BFF1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProjectContent\</RootDirectory>
+      <LoggerRootDirectory>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Game Programming\Projects\IMVSFinalProject-dec9\IMVSFinalProject\IMVSFinalProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-09-17T16:44:37.7261089-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

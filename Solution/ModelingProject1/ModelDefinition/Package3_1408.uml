@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="674ce00f-1679-4cae-9ff3-46fd68ae1c25"
+  name="Framework"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="abe492f3-91ac-49a3-a29e-df812b7ff077"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DMicrosoft.Xna.Framework"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="71571b7b-5246-4076-a199-7144798c6b23"
+        name="GameTime"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="e3f6f585-d70f-408e-ac01-5369699b9a3e"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FMicrosoft XNA%2FXNA Game Studio%2Fv4.0%2FReferences%2FWindows%2Fx86%2FMicrosoft.Xna.Framework.Game.dll&quot; Namespace%3DMicrosoft.Xna.Framework Type%3DGameTime"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="4fd7df3c-ecce-4ed4-beac-e1989200596f"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="e5d9bbb4-e6b0-410f-bc18-ae6cc631b726">
+                <propertyInstance
+                  Id="3aa97a67-2dd9-4657-a711-e77600e1cc09"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="a8ef7c87-2516-42fa-9cbd-0e3d9e979157">
+                <propertyInstance
+                  Id="bb25592b-3f80-41be-8c33-14cb91c20172"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="83a9e666-8ee6-49fe-a945-d8058fb0bddb">
+                <propertyInstance
+                  Id="2998f6a0-6de9-4ac7-9d81-a11b7148c568"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="adc20fd2-dfc3-4cc5-8ea4-f407bb10d35d">
+                <propertyInstance
+                  Id="735c7fb0-f89f-450d-a48f-8011aa07fd9c"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="a3b82a88-5eff-45b1-94a6-1b95c8dee761">
+                <propertyInstance
+                  Id="ffdf590f-a30f-4558-a76d-5176eab54fb1"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="462c7ba8-a478-474b-8475-3bd0e0ec4d03"
+        name="Game"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="23e1ee5c-d849-4b39-8920-ea33b79895d8"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FMicrosoft XNA%2FXNA Game Studio%2Fv4.0%2FReferences%2FWindows%2Fx86%2FMicrosoft.Xna.Framework.Game.dll&quot; Namespace%3DMicrosoft.Xna.Framework Type%3DGame"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="2e9a6bd8-8ba9-48bc-aeac-3f78c16f52cb"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="4b288233-be2d-4489-b169-87ed28cdb77a">
+                <propertyInstance
+                  Id="93a9130b-238b-4305-b47c-dd3f49be1874"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="7ba03146-a4e9-442f-af56-956be780d61a">
+                <propertyInstance
+                  Id="2843854e-adfd-4ff3-870c-e5803547b3aa"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="23a8e8c2-bc13-4be2-b530-86809c6622c3">
+                <propertyInstance
+                  Id="9e1913af-3e40-4e28-81db-429fe27ab610"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="3da4dcd7-c4f7-4667-94bf-37a28df2b675">
+                <propertyInstance
+                  Id="685e770f-936f-45b3-89f6-493bf88cbb8c"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="78b899ba-e773-43c5-b9a5-aaa935eaf505">
+                <propertyInstance
+                  Id="ecd784c9-5bb6-4256-996b-fe6f4bb1285e"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="328e98e0-f0aa-4d1f-af03-13aa02265be6"
+        LastKnownName="Graphics"
+        LastKnownLocation="Package4_1408.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="2e733f1e-c659-46a2-84fd-a2f62b8ca170"
+        name="Vector2"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="d91ee1ac-e099-4b1d-8c7e-9252edf7021c"
+            handle="viewcode://./CodeSchema_Struct?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FMicrosoft XNA%2FXNA Game Studio%2Fv4.0%2FReferences%2FWindows%2Fx86%2FMicrosoft.Xna.Framework.dll&quot; Namespace%3DMicrosoft.Xna.Framework Type%3DVector2"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="b5f32e84-42bb-4632-a8fd-4b21dc13a251"
+            name="struct"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="15c85574-333f-46f0-8562-58e05a564e77">
+                <propertyInstance
+                  Id="a761ac5a-74ee-4308-a5e5-0cda801f8d9f"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="860ccf33-bd14-4634-91d0-571d328ade36">
+                <propertyInstance
+                  Id="ea7cb6a8-bce8-4a8c-8796-3c840c86dc81"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="57029961-0ce9-4b4d-a76e-935acba16066">
+                <propertyInstance
+                  Id="e18c4da8-21e4-4e24-9bda-c954706e531b"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="db81b44a-f1a0-4cfd-9c07-554b7c3f0ddc">
+                <propertyInstance
+                  Id="b97c1024-bb47-402a-8de3-b81eb92ab978"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="d4ef8c66-3976-4938-aea5-51c4540108e0"
+        name="Rectangle"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="07a13240-dbcc-4044-91d3-1721a206655d"
+            handle="viewcode://./CodeSchema_Struct?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FMicrosoft XNA%2FXNA Game Studio%2Fv4.0%2FReferences%2FWindows%2Fx86%2FMicrosoft.Xna.Framework.dll&quot; Namespace%3DMicrosoft.Xna.Framework Type%3DRectangle"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="69b96c89-e83a-4a99-a06b-240b7afe9c49"
+            name="struct"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="5e618272-259a-40bf-8adf-76f5a92fbaae">
+                <propertyInstance
+                  Id="4287c8fd-34e4-43c1-97df-a18e86f6ed18"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="0391c304-9e44-42dc-8a71-d68fdadb6e51">
+                <propertyInstance
+                  Id="066cced7-ed0b-4891-b902-cbd1dc9fdaaf"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="015afc1c-2e5c-4aef-98e7-812e24712d5a">
+                <propertyInstance
+                  Id="b5d84986-ff91-4a0a-9a75-cc7966730afa"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="e10971d2-ebfc-4aba-8a8a-c1022e1be797">
+                <propertyInstance
+                  Id="f2f62008-f5b3-4fea-87e3-43ea08d7790b"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="fa08edbf-552c-4f4d-a4d2-99e689508cf3"
+        name="GameComponent"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="d53ebdd2-0b29-450a-a2a1-d7cd600dcad2"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FMicrosoft XNA%2FXNA Game Studio%2Fv4.0%2FReferences%2FWindows%2Fx86%2FMicrosoft.Xna.Framework.Game.dll&quot; Namespace%3DMicrosoft.Xna.Framework Type%3DGameComponent"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="2a45af0c-b762-4428-9f78-35ca6f1b36d9"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="7e0ce2a0-2592-45a2-9b2f-73aec02aa57b">
+                <propertyInstance
+                  Id="5afd8a0c-f984-4e33-ae1b-e3020c833142"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="400fea78-f2ce-4d5e-9929-0d12baeada0d">
+                <propertyInstance
+                  Id="122c0354-a81f-477b-ad41-249cdf35bc0d"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="27029547-ef8c-4999-b688-84a7621eb71e">
+                <propertyInstance
+                  Id="0ad673a0-5d6e-422c-a69c-2e6316d0febd"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="3f62f9a5-ee70-475a-8191-dfe9d40bbfa0">
+                <propertyInstance
+                  Id="5f8b9e83-a9f6-4d95-b446-21cd4783b221"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="fcde0fc6-3fb0-4a65-935d-9c97fa332d83">
+                <propertyInstance
+                  Id="730cd8af-4f8b-4416-a8b4-f0bc573f30af"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="3651358c-5d9a-4391-b425-3380211a0be5"
+        LastKnownName="Audio"
+        LastKnownLocation="Package8_1408.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="7fe3bf1f-0b8e-4ba2-92fb-10c3c9817bee"
+        name="GraphicsDeviceManager"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="c4194fc5-09d9-4694-9420-9b7d911f77a8"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FMicrosoft XNA%2FXNA Game Studio%2Fv4.0%2FReferences%2FWindows%2Fx86%2FMicrosoft.Xna.Framework.Game.dll&quot; Namespace%3DMicrosoft.Xna.Framework Type%3DGraphicsDeviceManager"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="638a6717-d4dc-419d-8d5e-7ad983eaab30"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="6e1fab2b-1512-47e3-aab3-f96e819f27a8">
+                <propertyInstance
+                  Id="d834a707-779c-4146-a69d-37291d617331"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="5127ab3f-7880-4229-a21f-84412223d873">
+                <propertyInstance
+                  Id="382add3c-79d4-4cef-b539-06220d926cfe"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="72cc97a7-8ca4-49cf-b9ac-b44bd7e24752">
+                <propertyInstance
+                  Id="c7fda87b-18d3-4ed1-8bfe-0c00b3df6f2b"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="3026a5dd-2ce3-4cfa-a0a8-d74f1630e9c9">
+                <propertyInstance
+                  Id="2054c956-8095-466e-a5ad-df2ad2906123"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="f43f5429-b246-49db-92fe-03f1279e881c">
+                <propertyInstance
+                  Id="5904720e-7236-4af6-ba35-a86c2d917d6b"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="26124e42-18dd-426c-9d0c-b98d4be241e1"
+        LastKnownName="Input"
+        LastKnownLocation="Package11_1408.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="3094369c-3e13-40ba-b444-b336717d0f45"
+        name="Color"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="a3a9ab17-9328-462e-9983-11d1f434d3cb"
+            handle="viewcode://./CodeSchema_Struct?Assembly%3D&quot;file:%2F%2F%2FC:%2FProgram Files (x86)%2FMicrosoft XNA%2FXNA Game Studio%2Fv4.0%2FReferences%2FWindows%2Fx86%2FMicrosoft.Xna.Framework.dll&quot; Namespace%3DMicrosoft.Xna.Framework Type%3DColor"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="f0856564-263e-48cf-a6f2-c249c78b2fed"
+            name="struct"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="d0f8ad43-b1ae-4861-b259-a9d8bca6e014">
+                <propertyInstance
+                  Id="6e36ce56-1780-4776-9f5e-efbfbb479387"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="9e4a443f-a3e3-412c-902d-86c09a51cf0e">
+                <propertyInstance
+                  Id="e7e46c48-1ae8-475f-b8d1-7b45058aa486"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="6b9cc4ce-53af-4b90-a204-5b7df79ba935">
+                <propertyInstance
+                  Id="d4dc6ef5-6627-434d-800a-18cf0b844d1f"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="5766554b-26af-40c2-88b7-5039ed5c8d86">
+                <propertyInstance
+                  Id="b0ea466c-849f-49d4-9893-7ff3c50e4778"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>
